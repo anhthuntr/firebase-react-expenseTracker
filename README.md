@@ -1,7 +1,7 @@
 # A Simple Expense Tracker Using React & Firebase
 ## DEMO: https://expense-tracker-18d1b.web.app/
-You can use this account for testing
-admin@something.net
+You can use this account for testing\
+admin@something.net\
 pwd: 123456
 
 # Getting Started with Create React App
