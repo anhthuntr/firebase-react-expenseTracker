@@ -1,0 +1,38 @@
+.db-container {
+    display: flex;
+    flex-direction: column;
+    height: 110vh;
+    background-color: #C5ADC5;
+  }
+
+  .transactions {
+    margin-left: 60px;
+    margin-top: 5px;
+    padding-left: 10px;
+    width: 700px;
+    height: 400px;
+    overflow: auto;
+    border-radius: 5px;
+    background-color: #d5cedc;
+  }
+
+  .text-container {
+    display: flex; /* Use flexbox to arrange the texts in a row */
+    justify-content: space-between; /* Adjust this property for your desired alignment */
+    align-items: center; /* Center the texts vertically within the container */
+    ;
+  }
+  
+  .text {
+    padding: 10px; /* Add padding or other styles as needed */
+    margin-right: 110px;
+    font-weight: bold;
+  }
+
+  .text-content {
+    padding: 10px;
+    margin-right: 150px;
+    text-align: left;
+  }
+
+  
